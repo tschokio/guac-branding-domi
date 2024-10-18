@@ -1,7 +1,7 @@
 {
 
         "guacamoleVersion" : "*",
-        "name" : "Custom Guacamole Theme",
+        "name" : "DomiDemi",
         "namespace" : "custom-namespace",
         "smallIcon" : "images/logo-64.png",
         "largeIcon" : "images/logo-144.png",

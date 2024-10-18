@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Name: branding
+Name: DomiDemi
 Specification-Title: Custom Guacamole Theme CSS
 Specification-Version: 1.0
 Implementation-Title: Custom Guacamole Theme CSS
